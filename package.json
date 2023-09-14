@@ -1,0 +1,9 @@
+{
+  "name": "hello-node-client",
+  "version": "1.0.0",
+  "description": "Hello LaunchDarkly for Node.js Client-Side",
+  "main": "index.js",
+  "dependencies": {
+    "launchdarkly-node-client-sdk": ">= 2.0.0"
+  }
+}
